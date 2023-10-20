@@ -8,4 +8,10 @@ export class Arma {
   durabilidade: number = 100; // 0 - 100 
   elemento: string = "";
   peso: number = 0;
+
+  //TODO: Adicionar parametros e adicionar valores recebidos aos atribuitos
+  //TODO: Trazer para cá os calculos relacionados a arma
+  constructor() {
+
+  }
 }
